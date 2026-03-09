@@ -26,5 +26,4 @@ The page focuses on simplicity and clear communication so founders can quickly u
 ## 📹 Demo
 A short demo video showing the website functionality is included.
 
-## 👨‍💻 Author
-Your Name
+
